@@ -1,0 +1,9 @@
+SupplierID,SupplierName,Category,Country,AvgLeadTimeDays,OTIF_Target,QualityRating,CostIndex,Actual_OTIF%
+SUP-01,Reliable Components Pvt Ltd,Electronics,India,13,0.86,4.6,0.95,0
+SUP-02,Global Textile Works,Apparel,Bangladesh,5,0.94,4.5,1.21,0.46
+SUP-03,HomeCraft Manufacturing,Home & Kitchen,India,4,0.92,3.5,0.89,0.55
+SUP-04,FreshSource Foods,Groceries,India,6,0.91,3.5,0.93,0.35
+SUP-05,ActiveGear Industries,Sports,Vietnam,13,0.93,4.1,1.03,0
+SUP-06,TechParts International,Electronics,China,7,0.95,3.5,1.17,0.25
+SUP-07,Prime Apparel Co,Apparel,India,14,0.9,3.9,0.94,0
+SUP-08,KitchenWorks Ltd,Home & Kitchen,China,15,0.89,3.6,0.89,0

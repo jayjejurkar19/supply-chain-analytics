@@ -1,0 +1,16 @@
+SKU,ProductName,Category,Warehouse,UnitCost,UnitPrice,StockOnHand,LeadTimeDays,OrderingCost,HoldingCostPct,Annual _Demand,Average_Daily _Demand
+SKU-001,Wireless Mouse,Electronics,WH-Delhi,1283.44,2055.9,467,7,658,0.19,5490,15.04
+SKU-002,Bluetooth Speaker,Electronics,WH-Delhi,972.67,1695.1,126,13,1823,0.27,3052,8.36
+SKU-003,USB-C Charger,Electronics,WH-Chennai,1479.01,2555.22,544,7,1771,0.2,6135,16.81
+SKU-004,Cotton T-Shirt,Apparel,WH-Mumbai,605.66,850.8,626,5,1958,0.17,2195,6.01
+SKU-005,Denim Jacket,Apparel,WH-Chennai,618.83,1110.65,866,5,2052,0.18,4713,12.91
+SKU-006,Running Shoes,Apparel,WH-Chennai,125.58,183.06,297,5,1811,0.21,2298,6.3
+SKU-007,Non-stick Pan,Home & Kitchen,WH-Chennai,1378.66,2108.56,844,4,1669,0.28,2349,6.44
+SKU-008,Air Fryer,Home & Kitchen,WH-Delhi,647.15,912.26,853,15,594,0.17,7188,19.69
+SKU-009,LED Lamp,Home & Kitchen,WH-Kolkata,970.97,1646.8,470,4,1692,0.22,3312,9.07
+SKU-010,Basmati Rice 5kg,Groceries,WH-Chennai,437.01,689,867,6,1782,0.17,6537,17.91
+SKU-011,Cooking Oil 1L,Groceries,WH-Mumbai,697.37,1064.79,599,6,2325,0.28,7087,19.42
+SKU-012,Green Tea Pack,Groceries,WH-Chennai,503.79,815.88,860,6,823,0.29,4365,11.96
+SKU-013,Yoga Mat,Sports,WH-Delhi,1389.86,2445.11,194,13,2358,0.28,4409,12.08
+SKU-014,Cricket Bat,Sports,WH-Delhi,1260.97,1833.14,829,13,1472,0.16,1211,3.32
+SKU-015,Football,Sports,WH-Mumbai,1160.06,1952.28,351,13,1555,0.24,1459,4
